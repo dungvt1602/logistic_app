@@ -13,7 +13,7 @@ st.set_page_config(
 )
 
 # Backend service configuration
-BACKEND_URL = "http://127.0.0.1:8000"
+BACKEND_URL = "https://logistic-app-ex27.onrender.com"
 
 # Inject Custom CSS for premium styling, dark mode, fonts, gradients and animations
 st.markdown("""
